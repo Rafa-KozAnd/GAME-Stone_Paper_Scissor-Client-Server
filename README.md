@@ -12,4 +12,14 @@
 
 ##
 
-- Prints: ---;
+- Rules: 
+<div>
+  <img align="center" height="400" widht="400" src="/Print/Rules.JPG" />
+</div><br>
+
+- Example:
+<div>
+  <img align="center" height="300" widht="300" src="/Print/Run1.JPG" />
+    <br><br>
+  <img align="center" height="300" widht="300" src="/Print/Run2.JPG" />
+</div><br>
