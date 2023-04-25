@@ -1,13 +1,13 @@
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/GAME-Stone_Paper_Scissor-Client-Server">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/Rafa-KozAnd/GAME-Stone_Paper_Scissor-Client-Server">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/GAME-Stone_Paper_Scissor-Client-Server">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/GAME-Stone_Paper_Scissor-Client-Server">
+  <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/GAME-Stone_Paper_Scissor-Client-Server">
+</p>
+
 # GAME
-
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
-</p>
-
-<p align="center">
-<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/GAME-Stone_Paper_Scissor-Client-Server">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/GAME-Stone_Paper_Scissor-Client-Server">
-</p>
 
 - Project Name: GAME-Stone_Paper_Scissors_Lizard_Spock-Client-Server;
 - Languages: Python;
